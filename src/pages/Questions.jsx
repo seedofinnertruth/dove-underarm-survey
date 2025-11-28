@@ -49,7 +49,7 @@ export default function Questions() {
 
    return (
       <main className='w-full h-screen flex items-center justify-center'>
-         <div className='max-w-4xl w-full md:w-100 lg:w-150'>
+         <div className='max-w-4xl w-full md:w-100 lg:w-180'>
             {/* Question */}
             <div className='text-center mb-12'>
                <h2 className='text-2xl lg:text-4xl text-primary mb-4 text-center lg:leading-13'>
